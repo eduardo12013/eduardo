@@ -17,3 +17,61 @@
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888507126144696410/916143194666860544/ab67616d0000b2730225931f9a8f4ee1c409ac0f.png">
 </div>
+
+  <center>
+<style type="text/css">
+		
+		body{
+			background-size: cover;
+			background-attachment: fixed;
+		}
+  
+.content{
+			background: #090C0E;
+			width: 50%;
+			padding: 40px;
+			margin: 100px auto;
+			font-family: calibri;
+			border-radius: 10px;
+		}
+
+		p{
+			font-size: px;
+			color: white;
+		}
+
+	</style>
+</head>
+<body>
+
+   <div class="content">
+   	
+
+<p>
+<font color="red">Descrição aqui</p>
+<p>
+     
+   	  <p>
+   	  	texto aqui
+   	  </p>
+     
+<p>
+<font color="red">Descrição aqui</p>
+<p>
+     
+      <p>
+   	  texto aqui
+   	</p>
+     
+<p>
+<font color="red">Descrição aqui</p>
+<p>     
+     
+     <p>
+   	  texto aqui
+    </p>
+
+   </div>
+  
+</body>
+</html>
