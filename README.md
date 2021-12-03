@@ -18,7 +18,7 @@
   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/888507126144696410/916143194666860544/ab67616d0000b2730225931f9a8f4ee1c409ac0f.png">
 </div>
 
-  <center>
+<center>
 <style type="text/css">
 		
 		body{
