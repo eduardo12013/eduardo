@@ -20,11 +20,6 @@
 
 <center>
 <style type="text/css">
-		
-		body{
-			background-size: cover;
-			background-attachment: fixed;
-		}
   
 .content{
 			background: #090C0E;
@@ -33,11 +28,6 @@
 			margin: 100px auto;
 			font-family: calibri;
 			border-radius: 10px;
-		}
-
-		p{
-			font-size: px;
-			color: white;
 		}
 
 	</style>
