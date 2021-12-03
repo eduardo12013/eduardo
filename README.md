@@ -3,3 +3,4 @@
 - 🐱‍👤 3 anos de Github
 - 🎉 Aniversário? Oque é isso.
 - ✨ Discord: mace#7918
+- 🐱‍💻 Estudante de JavaScript 
