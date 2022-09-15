@@ -4,4 +4,4 @@
 - 🐱‍💻 console.log('Estudante de JavaScript');
 - 🐍 print('Major em Python');
 - 🎉 Aniversário? Oque é isso.
-- ✨ Discord: mace#7918
+- ✨ Discord: 361871849576988673
